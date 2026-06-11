@@ -1,0 +1,24 @@
+LEAFY HAVEN - UNDERSTANDING YOUR VISUALISATION RESULTS
+
+WHAT THE STABLE DIFFUSION VISUALISATION SHOWS:
+The green visualisation image shows a realistic preview of what your rooftop could look like after greening.
+This is an AI-generated image using Stable Diffusion inpainting technology.
+
+HOW TO INTERPRET YOUR VISUALISATION:
+- Green overlay areas: Zones identified as suitable for plant installation
+- Darker green areas: Higher density planting recommended
+- Lighter green areas: Low maintenance ground cover recommended
+- No overlay areas: Structurally unsuitable or already vegetated zones
+
+IMPORTANT NOTES ABOUT THE VISUALISATION:
+- The image is an AI preview only, not an architectural plan
+- Actual plant species and layout should be confirmed with a landscape architect
+- The visualisation assumes standard soil depth of 10cm
+- Colours in the visualisation represent vegetation density, not specific plant species
+
+WHAT TO DO AFTER SEEING YOUR VISUALISATION:
+1. Note your green score and save your visualisation image
+2. Share with a landscape architect or green roof installer for professional advice
+3. Contact your local council to check permit requirements
+4. Get 2-3 quotes from certified green roof installers
+5. Consider joining the City of Melbourne Urban Greening program
