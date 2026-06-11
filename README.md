@@ -8,7 +8,7 @@ Leafy Haven uses computer vision to analyse rooftops and generate green scores �
 
 ---
 
-## 🎯 What it does
+## What it does
 
 Users can ask questions like:
 - *"My rooftop scored 45, what does that mean?"*
@@ -22,28 +22,20 @@ The system retrieves the most relevant information from a curated knowledge base
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
-User Question
-      │
-      ▼
-HuggingFace Embeddings          ◄── sentence-transformers/all-MiniLM-L6-v2
-      │
-      ▼
-ChromaDB Vector Store           ◄── Semantic similarity search (top-k=3)
-      │
-      ▼
-LangChain RetrievalQA Chain     ◄── Stuffing retrieved chunks into prompt
-      │
-      ▼
-Groq LLM (Llama 3.1)           ◄── Generates grounded answer
-      │
-      ▼
-Gradio Chat Interface           ◄── Live web UI with source citations
+| Step | Component | Detail |
+|---|---|---|
+| 1 | User submits question | Via Gradio chat interface |
+| 2 | HuggingFace Embeddings | `sentence-transformers/all-MiniLM-L6-v2` converts question to vector |
+| 3 | ChromaDB Vector Store | Semantic similarity search retrieves top 3 relevant chunks |
+| 4 | LangChain RetrievalQA | Stuffs retrieved chunks into prompt template |
+| 5 | Groq LLM (Llama 3.1) | Generates grounded answer with source citations |
+| 6 | Gradio Interface | Displays answer and sources to user |
 
 ---
 
-## 🧠 Knowledge Base
+## Knowledge Base
 
 The RAG system is grounded in 8 curated documents covering:
 
@@ -60,7 +52,7 @@ The RAG system is grounded in 8 curated documents covering:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-0.2-green)
@@ -79,7 +71,7 @@ The RAG system is grounded in 8 curated documents covering:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open `leafy_haven_rag.ipynb` in Google Colab
 2. Get a free API key from [groq.com](https://groq.com)
@@ -88,13 +80,13 @@ The RAG system is grounded in 8 curated documents covering:
 
 ---
 
-## 📸 Demo
+## Demo
 
 ![Leafy Haven RAG Demo](demo_screenshot.png)
 
 ---
 
-## 🔗 Related Project
+## Related Project
 
 This project extends [Leafy Haven AI](https://github.com/Ratch03/Leafy-Haven-AI) — a computer vision pipeline that segments rooftops, estimates depth, detects vegetation, generates green visualisations using Stable Diffusion, and scores rooftops for greening potential.
 
