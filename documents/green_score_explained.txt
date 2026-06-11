@@ -1,0 +1,35 @@
+LEAFY HAVEN GREEN SCORE SYSTEM:
+
+The green score rates rooftop greening potential from 0-100.
+
+SCORE COMPONENTS:
+1. Existing Vegetation Coverage (25 points)
+   - 0-10% coverage: 0-8 points
+   - 10-30% coverage: 8-16 points
+   - 30%+ coverage: 16-25 points
+
+2. Rooftop Area (25 points)
+   - Under 20m²: 0-8 points
+   - 20-50m²: 8-16 points
+   - Over 50m²: 16-25 points
+
+3. Sun Exposure (25 points)
+   - North-facing (best in Melbourne): 20-25 points
+   - East/West-facing: 12-18 points
+   - South-facing (least sun): 0-10 points
+
+4. Structural Suitability (25 points)
+   - Flat roof: 20-25 points
+   - Slight slope (<10 degrees): 12-18 points
+   - Steep slope (>10 degrees): 0-10 points
+
+SCORE INTERPRETATION:
+- 0-25: Low potential — structural or sun exposure challenges
+- 26-50: Moderate potential — extensive green roof recommended
+- 51-75: Good potential — semi-intensive or extensive roof suitable
+- 76-100: Excellent potential — full green roof highly recommended
+
+IMPROVING YOUR SCORE:
+- Add irrigation system to support more plant variety
+- Install lightweight substrate to reduce structural load
+- Consider vertical gardens if rooftop area is limited
