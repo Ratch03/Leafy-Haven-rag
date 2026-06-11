@@ -1,0 +1,25 @@
+LEAFY HAVEN - FREQUENTLY ASKED QUESTIONS
+
+Q: How accurate is the green score?
+A: The green score is based on computer vision analysis of your uploaded image. It analyses vegetation coverage, rooftop area, sun exposure and structural suitability. Accuracy is highest with clear, high resolution aerial or rooftop images taken in daylight. The score is a guide only and should be validated by a professional assessor.
+
+Q: What type of image should I upload to Leafy Haven?
+A: For best results upload a clear aerial or top-down photograph of your rooftop taken in daylight. Avoid images with heavy shadows, obstructions or low resolution. Google Maps satellite view screenshots also work well.
+
+Q: Can I use Leafy Haven for any rooftop in Australia?
+A: Leafy Haven is optimised for Melbourne rooftops and uses Melbourne-specific climate data, council regulations and plant databases. Results for rooftops outside Melbourne may be less accurate for permit and plant recommendations.
+
+Q: Is my rooftop image stored or shared?
+A: Images uploaded to Leafy Haven are processed in real time and are not stored permanently or shared with third parties.
+
+Q: Can Leafy Haven analyse multiple rooftops at once?
+A: Currently Leafy Haven analyses one rooftop per submission. For multiple rooftops submit each image separately.
+
+Q: What if my rooftop has existing vegetation?
+A: Leafy Haven detects existing vegetation using computer vision and factors this into your green score. Existing vegetation positively contributes to your score.
+
+Q: How often should I re-analyse my rooftop?
+A: Re-analyse after any major changes to the rooftop structure, after installing new vegetation, or annually to track your greening progress over time.
+
+Q: What is the difference between Leafy Haven and a landscape architect?
+A: Leafy Haven provides an AI-powered preliminary assessment to help you understand your rooftop's potential quickly and for free. A landscape architect provides detailed professional design, engineering sign-off and project management for actual installation.
