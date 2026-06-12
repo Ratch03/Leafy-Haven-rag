@@ -82,7 +82,7 @@ The RAG system is grounded in 8 curated documents covering:
 
 ## Demo
 
-![Leafy Haven RAG Demo](demo_screenshot.png)
+![Leafy Haven RAG Demo](demo-screenshot.png)
 
 ---
 
